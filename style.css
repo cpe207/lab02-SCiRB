@@ -1,0 +1,21 @@
+h3 {
+    text-align: center;
+    color: violet;
+    font-style: italic;
+}
+h4 {
+    text-align: left;
+    color: darkblue;
+}
+a {
+    text-align: center;
+    color: darkcyan;
+    font-style: normal;
+}
+div {
+      margin-left: auto;
+      margin-right: auto;
+}
+p {
+    text-align: center;
+}
